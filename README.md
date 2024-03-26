@@ -1,5 +1,9 @@
 # Child Mental Health and Well-being Mobile Application
 
+## Watch the Video
+
+[![Video Thumbnail](https://img.youtube.com/vi/5LPJkb_VE1M/0.jpg)](https://www.youtube.com/watch?v=5LPJkb_VE1M)
+
 ## Introduction
 Our mission is to create a user-friendly mobile application dedicated to the mental health and well-being of children. This application is designed to provide age-appropriate mental health assessments, progress tracking, parental involvement, professional guidance, emergency response, education and resources, community support, feedback mechanisms, and more.
 
